@@ -1,0 +1,31 @@
+  
+.header {
+  text-align: center;
+  border: 5px solid gold;
+  width: 400px;
+  margin: auto;
+}
+
+.header2 {
+  text-align: center;
+  border: 5px solid gold;
+  width: 200px;
+  margin: auto;
+}
+
+.diagram {
+  background: url(./Trapezoid.PNG);
+}
+
+#answer {
+  width: 100px;
+  height: 50px;
+  border-radius: 12px;
+  background-color: red;
+}
+body {
+  background-color: lightblue;
+}
+body {
+  background-color: lightblue;
+}
