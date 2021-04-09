@@ -1,5 +1,4 @@
-  
-.header {
+  .header {
   text-align: center;
   border: 5px solid gold;
   width: 400px;
@@ -14,7 +13,7 @@
 }
 
 .diagram {
-  background: url(./Trapezoid.PNG);
+background: url(./Trapezoid.PNG);
 }
 
 #answer {
@@ -24,8 +23,5 @@
   background-color: red;
 }
 body {
-  background-color: lightblue;
-}
-body {
-  background-color: lightblue;
+background-color: lightblue;
 }
